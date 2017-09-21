@@ -19,5 +19,5 @@ production:
   encoding: unicode
   database: url_shortner_production
   pool: 5
-  username: postgres
-  password: bhanu
+  username:
+  password:
